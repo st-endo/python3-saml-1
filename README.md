@@ -33,6 +33,9 @@ python main.py
   - SSO URL
   - X.509 Certificate
 
+
+![samlkitのIdP情報の画面](./assets/samlkit-idp2.png)
+
 ### setting.jsonに設定
 
 ```json
