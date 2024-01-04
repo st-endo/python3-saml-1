@@ -1,14 +1,23 @@
 # インストール
 ## python環境設定
+
+```
 python -m venv saml-1-venv
 source saml-1-venv/bin/activate
+```
 
 ## ライブラリのインストール
+
+```
 pip install --upgrade pip
 pip install flask python3-saml
+```
 
 ## 実行
+
+```
 python main.py
+```
 
 # 設定方法
 ## samlkitでIdPの情報を取得しsettings.jsonに設定する
